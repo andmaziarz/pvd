@@ -81,7 +81,7 @@
 
 ## Data Joining
 
-1. To combine separate datasets, you can some powerful techniques available in pandas. One of them is the merge() function you can use anytime you want functionality similar to a database’s join operations.
+1. To combine separate datasets, you can use some powerful techniques available in pandas. One of them is the merge() function you can use anytime you want functionality similar to a database’s join operations.
 
 1. The pandas merge() function allows you to combine two DataFrames, based on common columns or indexes.
 
